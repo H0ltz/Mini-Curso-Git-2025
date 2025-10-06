@@ -7,3 +7,4 @@
 - git push origin main: envia alteracoes pro servidor /branch especificados
 - git branch feature/lista-de-comandos: cria nova branch
 - checkout feature/lista-de-comandos: muda para nova branch
+- git pull origin main: baixa alteracoes pro branch especificado
