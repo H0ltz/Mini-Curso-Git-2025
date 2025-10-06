@@ -20,4 +20,5 @@ Repositorio utilizado na aprendizagem durante o Mini Curso realizado na 32a sema
 - git status:
 - git add:
 - git commit -m "este commit...":
-
+- git log:
+- git push origin main:
