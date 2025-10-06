@@ -12,7 +12,7 @@ function fatecSorocaba {
     const git = 1
 }
 ```
-Repositório utilizado na aprendizagem durante o Mini Curso realizado na 32° semana de tecnologia da Fatec Sorocaba.
+Repositorio utilizado na aprendizagem durante o Mini Curso realizado na 32a semana de tecnologia da Fatec Sorocaba.
 
 ## Lista de comandos
 
