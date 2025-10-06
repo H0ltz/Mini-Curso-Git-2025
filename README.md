@@ -22,3 +22,6 @@ Repositorio utilizado na aprendizagem durante o Mini Curso realizado na 32a sema
 - git commit -m "este commit...":
 - git log:
 - git push origin main:
+- git branch <nome da branch/...>:
+- git branch:
+- git checkout <nome da branch/...>:
