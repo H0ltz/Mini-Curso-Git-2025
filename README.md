@@ -13,3 +13,11 @@ function fatecSorocaba {
 }
 ```
 Repositório utilizado na aprendizagem durante o Mini Curso realizado na 32° semana de tecnologia da Fatec Sorocaba.
+
+## Lista de comandos
+
+- git clone:
+- git status:
+- git add:
+- git commit -m "este commit...":
+
